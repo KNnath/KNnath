@@ -1,6 +1,6 @@
 # Hi there, I'm Koushik Nath! 👋
 
-🚀 ### **About Me**
+### 🚀 **About Me**
 
 🎓 BCA Graduate (Class of 2024)
 
