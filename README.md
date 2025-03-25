@@ -12,6 +12,8 @@
 
 🔍 Exploring AI-powered solutions and security-focused applications.
 
+---
+
 🔧 What I Work On
 
 Voice Assistant: A personal AI assistant that understands commands and executes tasks.
@@ -21,6 +23,8 @@ Face Recognition System: Secure authentication using MTCNN, Facenet, and Flask.
 Web Development: Full-stack projects.
 
 Automation & AI: Enhancing workflow efficiency with AI-powered automation.
+
+---
 
 📫 Let's Connect
 
