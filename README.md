@@ -13,7 +13,10 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KNnath.KNnath" />
+</div>
+"  />
 </div>
 
 # Hi there, I'm Koushik Nath! 👋
