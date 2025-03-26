@@ -14,8 +14,8 @@
 
 🔍 Exploring AI-powered solutions and security-focused applications.
 
---
-🛠️ **Skilled in**  <!--Python, MongoDB, MySQL, Flask, JavaScript, C, PLSQL, PHP, JSP and Java.-->
+
+## 🛠️ **Skilled in**  <!--Python, MongoDB, MySQL, Flask, JavaScript, C, PLSQL, PHP, JSP and Java.-->
 <div>
 <img height="70" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem94eDJxZng1dzRtdjdpbzAxengycjcxNDByanc5YTNsMzk3d2ZlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" />
 
