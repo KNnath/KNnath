@@ -20,6 +20,17 @@
 
 <img height="70" style="filter: invert(1);" src="https://cdn.iconscout.com/icon/free/png-256/free-flask-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-15-pack-icons-285137.png?f=webp&w=256" />
 
+<img height="70" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611taestmawkv60f5aukugjc8l029bd56dvedrhsmdt&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+
+<img height="70" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png" />
+
+<img height="70" src="https://oralytics.com/wp-content/uploads/2022/10/pl-sql_icon-1.png" />
+
+<img height="70" src="https://e7.pngegg.com/pngimages/78/907/png-clipart-logo-php-mysql-computer-icons-workforce-development-logos-blue-web-design-thumbnail.png" />
+
+<img height="70" src="https://images.projectsgeek.com/2016/11/JSP-Projects-with-Source-Code.png" />
+
+<img height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aYt95pW69PPVCbLb9hpvD_P_3fTORDFHdw&s" />
 
 </div>
 
