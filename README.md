@@ -60,13 +60,13 @@
 
 ## 🔧 What I Work On
 
-Voice Assistant: A personal AI assistant that understands commands and executes tasks.
+***Voice Assistant:*** A personal AI assistant that understands commands and executes tasks.
 
-Face Recognition System: Secure authentication using MTCNN, Facenet, and Flask.
+***Face Recognition System:*** Secure authentication using MTCNN, Facenet, and Flask.
 
-Web Development: Full-stack projects.
+***Web Development:*** Full-stack projects.
 
-Automation & AI: Enhancing workflow efficiency with AI-powered automation.
+***Automation & AI:*** Enhancing workflow efficiency with AI-powered automation.
 
 <a href="https://code.visualstudio.com/" target="_blank">
     <img height="40" src="https://img.shields.io/static/v1?message=VS%20Code&logo=visualstudiocode&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VS Code" />
