@@ -10,6 +10,11 @@
 
 💻 Passionate about backend development, AI, and automation.
 
+🗣️ Building a voice assistant with advanced query decision-making.
+
+🔍 Exploring AI-powered solutions and security-focused applications.
+
+--
 🛠️ **Skilled in**  <!--Python, MongoDB, MySQL, Flask, JavaScript, C, PLSQL, PHP, JSP and Java.-->
 <div>
 <img height="70" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem94eDJxZng1dzRtdjdpbzAxengycjcxNDByanc5YTNsMzk3d2ZlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" />
@@ -33,10 +38,6 @@
 <img height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aYt95pW69PPVCbLb9hpvD_P_3fTORDFHdw&s" />
 
 </div>
-
-🗣️ Building a voice assistant with advanced query decision-making.
-
-🔍 Exploring AI-powered solutions and security-focused applications.
 
 ---
 
