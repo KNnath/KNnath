@@ -85,12 +85,12 @@
 
 ---
 
-📫 Let's Connect
+## 📫 Let's Connect
 
-🌐 **Portfolio:** [Webcrafting ->](https://webcrafting.infy.uk/)
+# 🌐 **Portfolio:** [Webcrafting ->](https://webcrafting.infy.uk/)
 
-📩 **Reach me at koushiknath003@gmail.com**
+# 📩 **Reach me at koushiknath003@gmail.com**
 
-💬 Open to collaborations and new projects!
+# 💬 Open to collaborations and new projects!
 
-✨ “Code, innovate, and automate!” ✨
+# ✨ “Code, innovate, and automate!” ✨
