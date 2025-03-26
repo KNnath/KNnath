@@ -58,7 +58,7 @@
 
 ---
 
-🔧 What I Work On
+## 🔧 What I Work On
 
 Voice Assistant: A personal AI assistant that understands commands and executes tasks.
 
@@ -67,6 +67,23 @@ Face Recognition System: Secure authentication using MTCNN, Facenet, and Flask.
 Web Development: Full-stack projects.
 
 Automation & AI: Enhancing workflow efficiency with AI-powered automation.
+
+<a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=VS%20Code&logo=visualstudiocode&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VS Code" />
+</a>
+
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=IntelliJ%20IDEA&logo=intellijidea&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="IntelliJ IDEA" />
+</a>
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PyCharm&logo=pycharm&label=&color=21D789&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="PyCharm" />
+</a>
+
+<a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Colab&logo=googlecolab&label=&color=F9AB00&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Google Colab" />
+</a>
+
 
 ---
 
