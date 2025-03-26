@@ -57,13 +57,13 @@
 
 ## 🔧 What I Work On
 
-***<span style="color:#FF5733;">Voice Assistant:</span>*** A personal AI assistant that understands commands and executes tasks.
+***<span style="color:#FF0000;">Voice Assistant:</span>*** A personal AI assistant that understands commands and executes tasks.
 
-***<span style="color:#3498db;">Face Recognition System:</span>*** Secure authentication using MTCNN, Facenet, and Flask.
+***<span style="color:#FF0000;">Face Recognition System:</span>*** Secure authentication using MTCNN, Facenet, and Flask.
 
-***<span style="color:#27ae60;">Web Development:</span>*** Full-stack projects.
+***<span style="color:#FF0000;">Web Development:</span>*** Full-stack projects.
 
-***<span style="color:#f39c12;">Automation & AI:</span>*** Enhancing workflow efficiency with AI-powered automation.
+***<span style="color:#FF0000;">Automation & AI:</span>*** Enhancing workflow efficiency with AI-powered automation.
 
 
 <a href="https://code.visualstudio.com/" target="_blank">
