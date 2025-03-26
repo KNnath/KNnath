@@ -46,7 +46,7 @@
 
 <img height="70" src="https://media.giphy.com/media/C8Tij3iox3coBSqVWE/giphy.gif?cid=790b7611i3lp6kyacdprqxvg9c2iguztjfjg25glcb3ymo38&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 
-<img height="70" style="filter: invert(1);" src="https://cdn.iconscout.com/icon/free/png-256/free-flask-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-15-pack-icons-285137.png?f=webp&w=256" />
+<img height="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0kQ35cJtNTJvmSQ3f-rzK4gpl1ee2gIZRhmmmupPrcAtm9wUXSivksAD&s=10" />
 
 <img height="70" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=790b7611taestmawkv60f5aukugjc8l029bd56dvedrhsmdt&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 
