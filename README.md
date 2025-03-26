@@ -69,7 +69,7 @@ Web Development: Full-stack projects.
 Automation & AI: Enhancing workflow efficiency with AI-powered automation.
 
 <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=VS%20Code&logo=visualstudiocode&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VS Code" />
+    <img height="50" src="https://img.shields.io/static/v1?message=VS%20Code&logo=visualstudiocode&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VS Code" />
 </a>
 
 <a href="https://www.jetbrains.com/idea/" target="_blank">
