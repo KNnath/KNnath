@@ -28,9 +28,9 @@
 
 <img height="70" src="https://e7.pngegg.com/pngimages/78/907/png-clipart-logo-php-mysql-computer-icons-workforce-development-logos-blue-web-design-thumbnail.png" />
 
-<img height="100" src="https://images.projectsgeek.com/2016/11/JSP-Projects-with-Source-Code.png" />
+<img height="80" src="https://images.projectsgeek.com/2016/11/JSP-Projects-with-Source-Code.png" />
 
-<img height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aYt95pW69PPVCbLb9hpvD_P_3fTORDFHdw&s" />
+<img height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aYt95pW69PPVCbLb9hpvD_P_3fTORDFHdw&s" />
 
 </div>
 
