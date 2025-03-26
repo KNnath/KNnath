@@ -57,13 +57,18 @@
 
 ## 🔧 What I Work On
 
-<span style="color:#FF0000;"> Voice Assistant:</span> A personal AI assistant that understands commands and executes tasks.
+![Voice Assistant](https://img.shields.io/badge/Voice%20Assistant-FF0000?style=for-the-badge)
+A personal AI assistant that understands commands and executes tasks.
 
-***<span style="color:#FF0000;">Face Recognition System:</span>*** Secure authentication using MTCNN, Facenet, and Flask.
+![Face Recognition System](https://img.shields.io/badge/Face%20Recognition%20System-FF0000?style=for-the-badge)
+Secure authentication using MTCNN, Facenet, and Flask.
 
-***<span style="color:#FF0000;">Web Development:</span>*** Full-stack projects.
+![Web Development](https://img.shields.io/badge/Web%20Development-FF0000?style=for-the-badge)
+Full-stack projects.
 
-***<span style="color:#FF0000;">Automation & AI:</span>*** Enhancing workflow efficiency with AI-powered automation.
+![Automation & AI](https://img.shields.io/badge/Automation%20%26%20AI-FF0000?style=for-the-badge)
+Enhancing workflow efficiency with AI-powered automation.
+
 
 
 <a href="https://code.visualstudio.com/" target="_blank">
