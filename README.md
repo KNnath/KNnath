@@ -16,9 +16,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KNnath.KNnath" />
 </div>
 
-"  />
-</div>
-
 # Hi there, I'm Koushik Nath! 👋
 
 ### 🚀 **About Me**
@@ -60,13 +57,14 @@
 
 ## 🔧 What I Work On
 
-***Voice Assistant:*** A personal AI assistant that understands commands and executes tasks.
+***<span style="color:#FF5733;">Voice Assistant:</span>*** A personal AI assistant that understands commands and executes tasks.
 
-***Face Recognition System:*** Secure authentication using MTCNN, Facenet, and Flask.
+***<span style="color:#3498db;">Face Recognition System:</span>*** Secure authentication using MTCNN, Facenet, and Flask.
 
-***Web Development:*** Full-stack projects.
+***<span style="color:#27ae60;">Web Development:</span>*** Full-stack projects.
 
-***Automation & AI:*** Enhancing workflow efficiency with AI-powered automation.
+***<span style="color:#f39c12;">Automation & AI:</span>*** Enhancing workflow efficiency with AI-powered automation.
+
 
 <a href="https://code.visualstudio.com/" target="_blank">
     <img height="40" src="https://img.shields.io/static/v1?message=VS%20Code&logo=visualstudiocode&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VS Code" />
