@@ -10,7 +10,10 @@
 <a href="https://www.instagram.com/1koushik.nath">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram Logo" />
 </a>
+</div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
 # Hi there, I'm Koushik Nath! 👋
