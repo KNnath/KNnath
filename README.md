@@ -57,7 +57,7 @@
 
 ## 🔧 What I Work On
 
-***<span style="color:#FF0000;">Voice Assistant:</span>*** A personal AI assistant that understands commands and executes tasks.
+<span color:"#FF0000"> Voice Assistant:</span> A personal AI assistant that understands commands and executes tasks.
 
 ***<span style="color:#FF0000;">Face Recognition System:</span>*** Secure authentication using MTCNN, Facenet, and Flask.
 
