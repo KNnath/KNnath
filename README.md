@@ -56,9 +56,9 @@
 
 <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 
-<img height="80" src="https://images.projectsgeek.com/2016/11/JSP-Projects-with-Source-Code.png" />
+<img height="80" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Jsp-logo.png" />
 
-<img height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8aYt95pW69PPVCbLb9hpvD_P_3fTORDFHdw&s" />
+<img height="80" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 
 </div>
 
