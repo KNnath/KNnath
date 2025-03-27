@@ -56,7 +56,7 @@
 
 <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 
-<img height="80" src="https://media.licdn.com/dms/image/sync/v2/D5627AQFxtnULcumPMA/articleshare-shrink_800/articleshare-shrink_800/0/1720732982939?e=2147483647&v=beta&t=sJx-E1gG1iNSIbdWPmEaljs25jPtt1GSORpqIr0l5Z0" />
+<img height="80" src="https://camo.githubusercontent.com/91aa8e1faf8507d5259054e8664b62467484bada8a6f658e068b6823ffbcc0e9/687474703a2f2f666564696c2e756b6e6565712e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30312f6a73702d69636f6e2d313633783330302e706e67" />
 
 <img height="80" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 
