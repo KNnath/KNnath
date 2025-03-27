@@ -56,7 +56,7 @@
 
 <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
 
-<img height="80" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Jsp-logo.png" />
+<img height="80" src="https://media.licdn.com/dms/image/sync/v2/D5627AQFxtnULcumPMA/articleshare-shrink_800/articleshare-shrink_800/0/1720732982939?e=2147483647&v=beta&t=sJx-E1gG1iNSIbdWPmEaljs25jPtt1GSORpqIr0l5Z0" />
 
 <img height="80" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 
